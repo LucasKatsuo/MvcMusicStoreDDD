@@ -29,7 +29,7 @@ The same known [MusicStore](https://github.com/aspnet/MusicStore/) application, 
 * Invertion of Control
 * Service Locator
 
-# This is BETA PROJECT
+# This is BETA PROJECT!
 
 <blockquote>"These are currently an early work in progress. It's been pushed here so contributors can create pull requests,
 etc. Please don't complain unless you are willing to help ;)" - by Vaughn Vernon</blockquote>
@@ -42,3 +42,7 @@ etc. Please don't complain unless you are willing to help ;)" - by Vaughn Vernon
 # Try it 
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
+
+
+
